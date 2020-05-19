@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CathaySecDemo_KUAN_CHUN_CHEN_20200519</string>
+
+    <string name="mainpage">首頁</string>
+    <string name="pricepage">報價</string>
+    <string name="bidpage">下單</string>
+    <string name="fincpage">帳務</string>
+    <string name="morepage">更多</string>
+
+    <string name="stocktitle">債券行情</string>
+
+    <string name="sellprice">參考賣價</string>
+    <string name="sellrate">參考殖利率</string>
+    <string name="sellyear">距到期年</string>
+
+    <string name="main_title">債券行情</string>
+    main_title
+
+</resources>

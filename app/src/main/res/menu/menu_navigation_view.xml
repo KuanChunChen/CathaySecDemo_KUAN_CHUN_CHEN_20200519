@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_mainpage"
+        android:checked="true"
+        android:icon="@drawable/toolbar_icon_market_inactive"
+        android:title="@string/mainpage" />
+    <item
+        android:id="@+id/menu_price"
+        android:icon="@drawable/toolbar_icon_market_inactive"
+        android:title="@string/pricepage" />
+    <item
+        android:id="@+id/menu_bid"
+        android:icon="@drawable/toolbar_icon_market_inactive"
+        android:title="@string/bidpage" />
+    <item
+        android:id="@+id/menu_finc"
+        android:icon="@drawable/toolbar_icon_market_inactive"
+        android:title="@string/fincpage" />
+    <item
+        android:id="@+id/menu_more"
+        android:icon="@drawable/toolbar_icon_market_inactive"
+        android:title="@string/morepage" />
+
+</menu>
