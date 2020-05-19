@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='CathaySecDemo_KUAN_CHUN_CHEN_20200519'
